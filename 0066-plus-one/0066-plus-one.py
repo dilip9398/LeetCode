@@ -3,15 +3,12 @@ class Solution(object):
         """
         :type digits: List[int]
         :rtype: List[int]
-        
         """
-        a = [1, 0]
-        if len(digits) <= 1:
-            return a
+        n = len(digits)
 
-        add = 1 + digits[-1]
-        digits.remove(digits[-1])
-        digits.append(add)
-
-        return digits
-        
+        for i in range(n-1, -1, -1):
+            if digits[i] < 9:
+                digits[i] += 1
+                return digits
+            digits[i] = 0
+        return [1] + digits
