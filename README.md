@@ -2,22 +2,7 @@
 
 This repository contains my solutions to various [LeetCode](https://leetcode.com ) problems, grouped by topic for easy reference.
 
----
 
-## 📚 Topics
-
-- [Array](#array)
-- [String](#string)
-- [Math](#math)
-- [Two Pointers](#two-pointers)
-- [Sorting](#sorting)
-- [Hash Table](#hash-table)
-- [Binary Search](#binary-search)
-- [Simulation](#simulation)
-- [Bit Manipulation](#bit-manipulation)
-- [SQL](#sql)
-
----
 
 ## 📦 Array
 
