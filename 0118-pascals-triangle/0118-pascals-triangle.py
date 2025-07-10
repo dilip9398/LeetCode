@@ -4,12 +4,18 @@ class Solution(object):
         :type numRows: int
         :rtype: List[List[int]]
         """
-        def generate(numRows):
-            pascal = [[1]*(i+1) for i in range(numRows)]
-            for i in range(numRows):
-                for j in range(1,i):
-                    pascal[i][j] = pascal[i-1][j-1] + pascal[i-1][j]
-            return pascal
+        result = []
+        for i in range(numRows):
+            result.append(self.generateRow(i))
+        return result
 
-        return generate(numRows)
+
+    def generateRow(self, rowIndex):
+        ans = [1]
+        add = 1
+        for i in range(rowIndex):
+            add *= (rowIndex - i)
+            add //= (i + 1)
+            ans.append(add)
+        return ans
         
