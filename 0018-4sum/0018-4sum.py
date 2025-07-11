@@ -4,9 +4,9 @@ class Solution(object):
         n = len(nums)
         result = []
         nums.sort()
-        for i in range(n):
+        for i in range(n-3):
             if i > 0 and nums[i] == nums[i -1] :continue
-            for j in range(i+ 1, n):
+            for j in range(i+ 1, n-2):
                 if j != i + 1 and nums[j] == nums[j - 1]: continue
 
                 k = j + 1
