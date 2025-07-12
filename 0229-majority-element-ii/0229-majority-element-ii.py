@@ -12,5 +12,5 @@ class Solution(object):
             if v > n//3:
                 result.append(k)
         
-        result.sort()
+        # result.sort()
         return result
