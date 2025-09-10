@@ -23,7 +23,7 @@ public:
 
             int sum = digit1 + digit2 + carry;
             int digit = sum % 10;
-            int carry = sum / 10;
+            carry = sum / 10;
 
             ListNode* newNode = new ListNode(digit);
             tail->next = newNode;
