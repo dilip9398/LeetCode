@@ -84,3 +84,15 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 - [0584-find-customer-referee](https://leetcode.com/problems/find-customer-referee )
 - [0595-big-countries](https://leetcode.com/problems/big-countries )
 - [1757-recyclable-and-low-fat-products](https://leetcode.com/problems/recyclable-and-low-fat-products )
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/dilip9398/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/dilip9398/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+<!---LeetCode Topics End-->
