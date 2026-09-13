@@ -91,6 +91,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dilip9398/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -133,4 +134,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/dilip9398/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
