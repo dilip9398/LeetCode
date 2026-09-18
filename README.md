@@ -136,6 +136,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dilip9398/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/dilip9398/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -153,4 +154,12 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dilip9398/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dilip9398/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dilip9398/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
