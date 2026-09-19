@@ -93,6 +93,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dilip9398/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -106,6 +107,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -141,10 +144,12 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0007-reverse-integer](https://github.com/dilip9398/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -164,4 +169,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dilip9398/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
