@@ -142,6 +142,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dilip9398/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/dilip9398/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/dilip9398/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
