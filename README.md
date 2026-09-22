@@ -93,6 +93,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/dilip9398/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dilip9398/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -103,6 +104,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dilip9398/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -177,4 +179,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
