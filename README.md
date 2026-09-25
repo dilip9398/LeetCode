@@ -99,6 +99,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dilip9398/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dilip9398/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -118,6 +119,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -161,6 +164,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -194,4 +198,20 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
