@@ -94,6 +94,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0015-3sum](https://github.com/dilip9398/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/dilip9398/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -119,6 +120,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/dilip9398/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -218,5 +220,6 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
