@@ -97,6 +97,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/dilip9398/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -116,6 +117,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/dilip9398/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -225,4 +227,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dilip9398/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
