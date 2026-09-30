@@ -97,6 +97,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0031-next-permutation](https://github.com/dilip9398/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dilip9398/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dilip9398/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -173,6 +174,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/dilip9398/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/dilip9398/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/dilip9398/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -207,6 +209,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/dilip9398/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/dilip9398/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
