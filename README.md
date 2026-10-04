@@ -170,6 +170,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0009-palindrome-number](https://github.com/dilip9398/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/dilip9398/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/dilip9398/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/dilip9398/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/dilip9398/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -239,6 +240,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/dilip9398/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/dilip9398/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/dilip9398/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/dilip9398/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -278,4 +280,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/dilip9398/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dilip9398/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
