@@ -93,6 +93,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | [0001-two-sum](https://github.com/dilip9398/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/dilip9398/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/dilip9398/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dilip9398/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/dilip9398/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -136,6 +137,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dilip9398/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dilip9398/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/dilip9398/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/dilip9398/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -191,6 +193,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dilip9398/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/dilip9398/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dilip9398/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dilip9398/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dilip9398/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/dilip9398/LeetCode/tree/main/0031-next-permutation/) | Medium |
